@@ -19,8 +19,8 @@ The Fashion MNIST dataset consists of 70,000 grayscale images in 10 categories, 
 
 ## Installation  
 1. Clone this repository:  
-   `git clone https://github.com/yourusername/fashion-mnist-classification.git`  
-2. Install the necessary dependencies:  
+   `git clone https://github.com/Richielee630/Fashion-MNIST-RLI.git`
+3. Install the necessary dependencies:  
    `pip install -r requirements.txt`
 
 ## Usage  
