@@ -1,4 +1,4 @@
-Fashion MNIST Classification Project  
+# Fashion MNIST Classification Project  
 This project aims to develop a machine learning model to classify images from the Fashion MNIST dataset, which includes various clothing items like t-shirts, trousers, bags, and shoes. The dataset is publicly available on Kaggle.
 
 ## Project Overview  
